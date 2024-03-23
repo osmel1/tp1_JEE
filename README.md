@@ -5,7 +5,8 @@
 
 L'objectif de cette pratique est de maîtriser le développement d'applications en prenant en considération l'aspect de mise à niveau et d'amélioration continue, en utilisant les principes d'inversion de contrôle et d'injection de dépendances. Nous commencerons par explorer les différentes formes d'injection disponibles, puis nous progresserons vers la création de notre propre cadre (framework) afin d'atteindre cet objectif.
 1. **Création de l'interface IDao avec une méthode getDate :** <br>
-  ![Capture d’écran 2024-02-20 235205](https://github.com/otari2002/JEE_AP1/assets/53525728/1eec4ee9-9637-4a6b-a520-84c2c862825c)<br>
+![image](https://github.com/osmel1/tp1_JEE/assets/110778429/580bbcd0-f824-42b6-be63-0b84a8fa076e)<br>
+
 
 2. **Création d'une implémentation de cette interface :**<br>
 J'ai créé deux implémentations afin d'avoir suffisamment d'implémentations à tester 
